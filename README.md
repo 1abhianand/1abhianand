@@ -87,8 +87,6 @@ fun_fact:   elected Convener with the most votes in my batch at IIT (BHU)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1abhianand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
-
 <sub>Always happy to talk about voice agents, RAG and competitive programming. Say hi on <a href="https://www.linkedin.com/in/abhiiishek">LinkedIn</a>.</sub>
 
 </div>
